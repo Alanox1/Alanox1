@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alanox1
+- 👋 Hi, I’m Alan Magliolini
 - 👀 I’m interested in learn and do projects
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me alannm54@gmail.com
