@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Magliolini</h1>
-<h3 align="center">A passionate frontend developer from Argentina, I like to learn a lot and I also like to help those who need it.</h3>
+<h3 align="center">A passionate frontend developer from Argentina, passionate about creating attractive and functional user interfaces. I work with technologies like JavaScript, React, and TypeScript. I'm always learning and looking for new challenges in web development..</h3>
 
 - 🌱 I’m currently learning **React, Next, TypeScript, Firebase, Tailwind, Zustand**
 
