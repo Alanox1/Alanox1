@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-six-coral-93.vercel.app/](https://portfolio-six-coral-93.vercel.app/)
 
-- 💬 Ask me about **react,next**
-
 - 📫 How to reach me **alannm54@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alan-magliolini/](https://www.linkedin.com/in/alan-magliolini/)
