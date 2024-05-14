@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Magliolini
 - 👀 I’m interested in learn and do projects
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS and Next.js
 - 📫 How to reach me alannm54@gmail.com
 
 <!---
